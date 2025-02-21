@@ -2,10 +2,10 @@
   
  <h1>Topic: Introduction to Excel<h1/>
 
-<h2>Excel Interface and Navigation<h2/> 
+<h1>Excel Interface and Navigation<h1/> 
 Learn how to navigate the Excel workspace, including the ribbon, formula bar, and different sheet views.
   
-<h2>Basic Formulas and Functions<h2/>
+<h1>Basic Formulas and Functions<h1/>
 Understand how to use essential functions like SUM, AVERAGE, and COUNT to perform basic calculations.
   
 <h1>Formatting Data and Creating Tables<h1/>
